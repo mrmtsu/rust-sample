@@ -12,3 +12,6 @@ askama = "0.12.1"
 clap = { version = "4.4.7", features = ["derive"] }
 futures = "0.3.29"
 thiserror = "1.0.50"
+r2d2 = "0.8.10"
+r2d2_sqlite = "0.22.0"
+rusqlite = "0.29.0"
